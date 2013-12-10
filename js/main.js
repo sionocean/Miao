@@ -38,9 +38,9 @@ $(function(){
     		lazyLoad('#gallery');
     	});
 
-    $('#our-story')
+    $('#history')
     	.on('click', function(){
-    		lazyLoad('#our-story');
+    		lazyLoad('#history');
     	})
 		.on('click', '.icn-history-more', function(e){
 			e.preventDefault();
