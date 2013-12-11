@@ -17,7 +17,7 @@
 /* CONFIG */
 /* sprites */
 /* line 258, heading/*.png */
-.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-hotel-indigo, .heading-love-small, .heading-meet-jolly-over, .heading-meet-jolly, .heading-meet-the-groomsmen-over, .heading-meet-the-groomsmen, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm {
+.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-meet-jolly-over, .heading-meet-jolly, .heading-meet-the-groomsmen-over, .heading-meet-the-groomsmen, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm {
   background: url('../img/heading-s0fb21cda38.png') no-repeat;
 }
 
@@ -121,6 +121,13 @@
 
 /* line 60, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .heading-history-2013 {
+  background-position: 0 -2371px;
+  height: 163px;
+  width: 258px;
+}
+
+/* line 60, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.heading-history-2014 {
   background-position: 0 -2371px;
   height: 163px;
   width: 258px;

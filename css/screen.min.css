@@ -12,7 +12,7 @@
   src:url("../fonts/Brandon-Grotesque-Medium.eot"); 
   src:url("../fonts/Brandon-Grotesque-Medium.eot?#iefix") format("embedded-opentype"),url("../fonts/Brandon-Grotesque-Medium.woff") format("woff"),url("../fonts/Brandon-Grotesque-Medium.ttf") format("truetype"),url("../fonts/Brandon-Grotesque-Medium.svg#brandon") format("svg")}
 
-.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-hotel-indigo, .heading-love-small, .heading-meet-jolly-over, .heading-meet-jolly, .heading-meet-the-groomsmen-over, .heading-meet-the-groomsmen, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
+.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-meet-sion-over, .heading-meet-sion, .heading-meet-jolly-over, .heading-meet-jolly, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
   background:url('../img/heading-s0fb21cda38.png') no-repeat}
 
 .heading-add-to-our-story{
@@ -89,6 +89,11 @@
  background-position:0 -2371px; 
  height:163px; 
  width:258px}
+ 
+.heading-history-2014{
+ background-position:0 -835px; 
+ height:163px; 
+ width:258px}
 
 .heading-hotel-indigo{
  background-position:0 -2544px; 
@@ -100,27 +105,33 @@
  height:17px; 
  width:105px}
 
-.heading-meet-jolly-over{
+.heading-meet-sion-over{
  background-position:0 -1886px; 
  height:146px; 
  width:361px}
 
-.heading-meet-jolly{
+.heading-meet-sion{
  background-position:0 -3811px; 
  height:146px; 
  width:361px; 
  margin:50px auto 0}
 
-.body-meet-jolly{
+.body-meet-sion{
+ background: url('../img/bg/miao.png') no-repeat center 0;
+ height: 100px;
+ padding: 200px 0 0 0}
+ 
+ .body-meet-jolly{
+ background: url('../img/bg/aoao.png') no-repeat center 0;
+ height: 100px;
+ padding: 200px 0 0 0}
 
-}
-
-.heading-meet-the-groomsmen-over{
+.heading-meet-jolly-over{
  background-position:0 -2215px; 
  height:146px; 
  width:346px}
 
-.heading-meet-the-groomsmen{
+.heading-meet-jolly{
  background-position:0 -3655px; 
  height:146px; 
  width:346px; 
@@ -450,8 +461,9 @@ h1, h2, h3, h4, h5, h6{
  margin-left:30%}
 
 #history .info p{
- width:450px; 
- margin:0 auto 10px}
+ width:350px; 
+ margin:0 auto 10px;
+ font-size: 14px;}
 
 #history .info img{
  display:block}
