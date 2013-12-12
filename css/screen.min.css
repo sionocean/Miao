@@ -12,8 +12,8 @@
   src:url("../fonts/Brandon-Grotesque-Medium.eot"); 
   src:url("../fonts/Brandon-Grotesque-Medium.eot?#iefix") format("embedded-opentype"),url("../fonts/Brandon-Grotesque-Medium.woff") format("woff"),url("../fonts/Brandon-Grotesque-Medium.ttf") format("truetype"),url("../fonts/Brandon-Grotesque-Medium.svg#brandon") format("svg")}
 
-.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-meet-sion-over, .heading-meet-sion, .heading-meet-jolly-over, .heading-meet-jolly, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
-  background:url('../img/heading-s0fb21cda38.png') no-repeat}
+.heading-sprite, .heading-add-to-our-story, .heading-amazon, .together-forever, .body-together-forever, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-meet-sion-over, .heading-meet-sion, .body-meet-sion, .heading-meet-jolly-over, .heading-meet-jolly, .body-meet-jolly, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
+  background:url('../img/heading.png') no-repeat}
 
 .heading-add-to-our-story{
  background-position:0 -557px; 
@@ -25,10 +25,16 @@
  height:108px; 
  width:161px}
 
-.heading-americas-finest-city{
+.together-forever{
  background-position:0 -663px; 
  height:94px; 
  width:733px}
+ 
+.body-together-forever{
+ background-position:0 -2552px; 
+ height:253px; 
+ width:332px;
+ margin:20px auto}
 
 .heading-book-by-phone{
  background-position:0 -1312px; 
@@ -51,7 +57,7 @@
  width:161px}
 
 .heading-festivities{
- background-position:0 -999px; 
+ background-position:0 -771px; 
  height:126px; 
  width:449px}
 
@@ -66,32 +72,32 @@
  width:905px}
 
 .heading-history-2009{
- background-position:0 -2745px; 
+ background-position:0 -1804px; 
  height:163px; 
  width:330px}
 
 .heading-history-2010{
- background-position:0 -2918px; 
+ background-position:0 -1620px; 
  height:163px; 
  width:260px}
 
 .heading-history-2011{
- background-position:0 -1513px; 
+ background-position:0 -1439px; 
  height:162px; 
  width:262px}
 
 .heading-history-2012{
- background-position:0 -2042px; 
+ background-position:0 -1263px; 
  height:163px; 
  width:256px}
 
 .heading-history-2013{
- background-position:0 -2371px; 
+ background-position:0 -1094px; 
  height:163px; 
  width:258px}
  
 .heading-history-2014{
- background-position:0 -835px; 
+ background-position:0 -924px; 
  height:163px; 
  width:258px}
 
@@ -101,9 +107,9 @@
  width:203px}
 
 .heading-love-small{
- background-position:0 -4047px; 
+ background-position:0 -2369px; 
  height:17px; 
- width:105px}
+ width:136px}
 
 .heading-meet-sion-over{
  background-position:0 -1886px; 
@@ -111,20 +117,32 @@
  width:361px}
 
 .heading-meet-sion{
- background-position:0 -3811px; 
+ background-position:0 -2136px; 
  height:146px; 
- width:361px; 
+ width:220px; 
  margin:50px auto 0}
-
-.body-meet-sion{
- background: url('../img/bg/miao.png') no-repeat center 0;
- height: 100px;
- padding: 200px 0 0 0}
  
- .body-meet-jolly{
+.body-meet-sion{
+ background-position:0 -2411px; 
+ height:50px; 
+ width:494px; 
+ margin:30px auto 0}
+ 
+.body-meet-jolly{
+ background-position:0 -2484px; 
+ height:50px; 
+ width:320px; 
+ margin:30px auto 0}
+
+.icon-meet-sion{
+ background: url('../img/bg/miao.png') no-repeat center 0;
+ height:200px;
+ width:250px}
+ 
+.icon-meet-jolly{
  background: url('../img/bg/aoao.png') no-repeat center 0;
- height: 100px;
- padding: 200px 0 0 0}
+ height:200px;
+ width:250px}
 
 .heading-meet-jolly-over{
  background-position:0 -2215px; 
@@ -132,9 +150,9 @@
  width:346px}
 
 .heading-meet-jolly{
- background-position:0 -3655px; 
+ background-position:0 -1978px; 
  height:146px; 
- width:346px; 
+ width:220px; 
  margin:50px auto 0}
 
 .heading-registry{
@@ -148,7 +166,7 @@
  width:596px}
 
 .heading-to-do{
- background-position:0 -3967px; 
+ background-position:0 -2290px; 
  height:30px; 
  width:197px}
 
