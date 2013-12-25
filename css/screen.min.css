@@ -12,7 +12,7 @@
   src:url("../fonts/Brandon-Grotesque-Medium.eot"); 
   src:url("../fonts/Brandon-Grotesque-Medium.eot?#iefix") format("embedded-opentype"),url("../fonts/Brandon-Grotesque-Medium.woff") format("woff"),url("../fonts/Brandon-Grotesque-Medium.ttf") format("truetype"),url("../fonts/Brandon-Grotesque-Medium.svg#brandon") format("svg")}
 
-.heading-sprite, .heading-add-to-our-story, .heading-amazon, .together-forever, .body-together-forever, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-meet-sion-over, .heading-meet-sion, .body-meet-sion, .heading-meet-jolly-over, .heading-meet-jolly, .body-meet-jolly, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
+.heading-sprite, .heading-add-to-our-story, .heading-amazon, .together-forever, .body-together-forever, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-header, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-history-2014, .heading-hotel-indigo, .heading-love-small, .heading-love-share, .heading-meet-sion-over, .heading-meet-sion, .body-meet-sion, .heading-meet-jolly-over, .heading-meet-jolly, .body-meet-jolly, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm{
   background:url('../img/heading.png') no-repeat}
 
 .heading-add-to-our-story{
@@ -101,10 +101,11 @@
  height:163px; 
  width:258px}
 
-.heading-hotel-indigo{
- background-position:0 -2544px; 
- height:191px; 
- width:203px}
+.heading-love-share{
+ background-position:0 -2832px; 
+ height:80px; 
+ width:645px;
+ margin:0 auto 30px}
 
 .heading-love-small{
  background-position:0 -2369px; 
